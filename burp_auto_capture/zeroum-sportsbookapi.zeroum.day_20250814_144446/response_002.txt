@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Date: Thu, 14 Aug 2025 17:42:00 GMT
+Content-Type: application/json; charset=utf-8
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Cf-Cache-Status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4xq2JV075wy9n0nsPd40ErMkhhbSPZaqO5Pa9uXuTK%2BUEOb85gzB93gSHPizs9maXvNY67ZX5YF5Vfeh4Q8rd9%2B9jDmhGaDQrWXKNuZas9Sp18SoPk5JVmCsrixg"}]}
+Cf-Ray: 96f23f0e1ca164f3-GIG
+Alt-Svc: h3=":443"; ma=86400
+
+[{"id":1,"name":"Decimal"},{"id":3,"name":"American"}]
