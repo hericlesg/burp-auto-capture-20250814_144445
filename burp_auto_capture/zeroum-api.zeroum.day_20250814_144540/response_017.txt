@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Thu, 14 Aug 2025 17:42:01 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MsXvJfF4gXkT0Hqv9bWmHI0waqSLmwsmZpysMP%2F6BcwE3AENgmKy9eY4E2ygGW6%2BJcr5SKjRnAs0SXCqeoF6KM95LDXIQjPz1XflSLDP2zfX9tlDJw%3D%3D"}]}
+Set-Cookie: AWSALB=KUCmSZKhWpu2p67xZFnO3xczutgZqvsmbi9qIw3Qxm7yAqfcFszm2yiFU+/GsvZbRAzGL4hk4Y8WgWQtyiHGMsxZgpkW/l/1xnqm76M0WNfbojrpETicPsZkXILO; Path=/; Expires=Thu, 21 Aug 2025 17:42:01 GMT
+Set-Cookie: AWSALBCORS=KUCmSZKhWpu2p67xZFnO3xczutgZqvsmbi9qIw3Qxm7yAqfcFszm2yiFU+/GsvZbRAzGL4hk4Y8WgWQtyiHGMsxZgpkW/l/1xnqm76M0WNfbojrpETicPsZkXILO; SameSite=None; Secure; Path=/; Expires=Thu, 21 Aug 2025 17:42:01 GMT
+Cf-Ray: 96f23f10cff7995b-MXP
+Alt-Svc: h3=":443"; ma=86400
+
+{"games":[{"image":"/assets/images/products/fortune_rabbit.webp","name":"Fortune Rabbit","slug":"fortunerabbit","providerId":1013,"gameId":34,"providerName":"PGSoft","providerSlug":"pgsoft","raiting":99.0,"hasDemo":false,"jackpot":false,"rtp":96.75},{"image":"/assets/images/products/pgsoft/cash_mania.webp","name":"Cash Mania","slug":"cashmania","providerId":1013,"gameId":2000469,"providerName":"PGSoft","providerSlug":"pgsoft","raiting":98.0,"hasDemo":false,"jackpot":false,"rtp":96.75},{"image":"/assets/images/products/pragmaticplay/ratinho-sortudo-thumb.webp","name":"Ratinho Sortudo","slug":"ratinho-sortudo","providerId":54,"gameId":2004164,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":97.0,"hasDemo":true,"jackpot":false,"rtp":97.57},{"image":"/assets/images/products/pgsoft/fortune_dragon.webp","name":"Fortune Dragon","slug":"fortunedragon","providerId":1013,"gameId":2000284,"providerName":"PGSoft","providerSlug":"pgsoft","raiting":96.0,"hasDemo":false,"jackpot":false,"rtp":96.74},{"image":"/assets/images/products/pragmaticplay/rabbit_garden.webp","name":"Rabbit Garden","slug":"rabbitgarden","providerId":54,"gameId":2000643,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":95.0,"hasDemo":true,"jackpot":false,"rtp":96.05},{"image":"/assets/images/products/a26f08c0aa36c85a565b2c2882f353e695e5802470fa0d9276c35c322a8fc0c5.png","name":"Fortune Snake","slug":"fortunesnake","providerId":1013,"gameId":2004163,"providerName":"PGSoft","providerSlug":"pgsoft","raiting":94.0,"hasDemo":true,"jackpot":false,"rtp":96.75},{"image":"/assets/images/products/spribe/mines.webp","name":"Mines","slug":"minesspribe","providerId":1008,"gameId":95607,"providerName":"Spribe","providerSlug":"spribe","raiting":93.0,"hasDemo":true,"jackpot":false,"rtp":97.00},{"image":"/assets/images/products/pragmaticplay/spaceman.webp","name":"Spaceman","slug":"spaceman","providerId":54,"gameId":1301,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":92.0,"hasDemo":true,"jackpot":false,"rtp":95.50},{"image":"/assets/images/products/pragmaticplay/sugar_rush_1000.webp","name":"Sugar Rush 1000","slug":"sugarrush1000","providerId":54,"gameId":2000321,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":91.0,"hasDemo":true,"jackpot":false,"rtp":96.53},{"image":"/assets/images/products/pragmaticplay/o_vira-lata_caramelo.webp","name":"O Vira-lata Caramelo","slug":"oviralatacaramelo","providerId":54,"gameId":2000319,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":90.0,"hasDemo":true,"jackpot":false,"rtp":96.50},{"image":"/assets/images/products/pragmaticplay/big-bass-round-thumb.webp","name":"Big Bass Boxing Bonus Round","slug":"bigbassboxingbonus","providerId":54,"gameId":2005513,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":0.00,"hasDemo":false,"jackpot":false,"rtp":96.51}],"providers":[{"id":1013,"slug":"PGSoft","gamesCount":4,"text":"PGSoft","image":"/assets/images/providers/pgsoft.webp"},{"id":54,"slug":"PragmaticPlay","gamesCount":6,"text":"PragmaticPlay","image":"/assets/images/providers/pragmatic_play.webp"},{"id":1008,"slug":"Spribe","gamesCount":1,"text":"Spribe","image":"/assets/images/providers/spribe.webp"}],"totalGamesCount":11,"slug":"jogos-da-deo"}
