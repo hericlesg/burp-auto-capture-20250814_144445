@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250814_144446", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250814_144446/request_001.txt", 
+      "url": "https://zeroum-sportsbookapi.zeroum.day:443/api/matches/favouritecompetitions?languageId=pt", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250814_144446/response_001.txt", 
+      "timestamp": 1755193321355
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250814_144446/request_002.txt", 
+      "url": "https://zeroum-sportsbookapi.zeroum.day:443/api/matches/oddisplaytypes?LanguageId=pt", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250814_144446/response_002.txt", 
+      "timestamp": 1755193321368
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250814_144446/request_003.txt", 
+      "url": "https://zeroum-sportsbookapi.zeroum.day:443/website/v2/getpagebanners?languageId=pt&page=1&timeZone=-3&LanguageId=pt&TimeZone=-3", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250814_144446/response_003.txt", 
+      "timestamp": 1755193321368
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250814_144446/request_004.txt", 
+      "url": "https://zeroum-sportsbookapi.zeroum.day:443/api/matches/betacceptancemodes?LanguageId=pt", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250814_144446/response_004.txt", 
+      "timestamp": 1755193321368
+    }
+  ], 
+  "host": "zeroum-sportsbookapi.zeroum.day", 
+  "total_requests": 4
+}
