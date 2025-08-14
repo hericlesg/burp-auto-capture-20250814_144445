@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250814_144608", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250814_144608/request_001.txt", 
+      "url": "https://analytics.google.com:443/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45P91e58d0v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&_is_sw=0&_tu=BA&_gsid=R38GP7L2V41_iXM_W5TaYs0ZRiaCZmvg", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250814_144608/response_001.txt", 
+      "timestamp": 1755193319371
+    }
+  ], 
+  "host": "analytics.google.com", 
+  "total_requests": 1
+}
