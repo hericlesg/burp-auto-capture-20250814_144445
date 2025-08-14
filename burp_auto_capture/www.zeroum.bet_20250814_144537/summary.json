@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250814_144537", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.zeroum.bet_20250814_144537/request_001.txt", 
+      "url": "https://www.zeroum.bet:443/cadastro?s_tracker=dykteqpdkkwkdlogpedbgjdwj&utm_medium=TAP&utm_medium=8lsk4pkhre&utm_campaign=447611&utm_source=447611&afp1=CP07%20%5Bzero1%5D%20%5BABO%20ADV%201-10-6%5D%20%5B01%2F08%5D&afp2=CJ1&afp3=AD434&afp9=victor", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.zeroum.bet_20250814_144537/response_001.txt", 
+      "timestamp": 1755192978365
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.zeroum.bet_20250814_144537/request_002.txt", 
+      "url": "https://www.zeroum.bet:443/user/cashier/deposit", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.zeroum.bet_20250814_144537/response_002.txt", 
+      "timestamp": 1755193375262
+    }
+  ], 
+  "host": "www.zeroum.bet", 
+  "total_requests": 2
+}
