@@ -1,0 +1,10 @@
+HTTP/2 200 OK
+Access-Control-Allow-Origin: *
+Cache-Control: private, max-age=120, stale-while-revalidate=60, stale-if-error=120
+Timing-Allow-Origin: *
+Content-Length: 51
+Date: Thu, 14 Aug 2025 17:44:45 GMT
+Alt-Svc: h3=":443"; ma=93600
+Content-Type: application/json
+
+{"site_domain":"arlid:845170","rate_limited":true}
